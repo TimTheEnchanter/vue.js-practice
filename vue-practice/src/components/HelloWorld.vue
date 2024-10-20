@@ -11,9 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      You’ve successfully created a project with
-      <a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
+      It appears I have successfully managed to not blow this up yet. I am trying to apply some of my past skills to learning a new js framework. So far things are looking alright. It's reassuring to know that all that time I spent hitting my head on my keyboard while trying to use Laravel Livewire was not for waste.
     </h3>
   </div>
 </template>
